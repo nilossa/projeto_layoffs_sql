@@ -3,5 +3,5 @@ Neste projeto projeto usa-se MySQL para limpar e analisar dados pertinentes à d
 
 ### Visão Geral dos Arquivos
 * <b>data_cleaning.sql</b>: Limpeza e padronização dos dados. Remoção de dados duplicados, de Nulls e de colunas desnecessárias. Criação de tabelas intermediárias para análise.
-* eda.sql: Análise exploratória e uma tentativa de responder perguntas pertitentes. (Por exemplo: qual empresa demitiu mais em 2021?)
-* layoffs.csv: Dados brutos.
+* <b>eda.sql</b>: Análise exploratória e uma tentativa de responder perguntas pertitentes. (Por exemplo: qual empresa demitiu mais em 2021?)
+* <b>layoffs.csv</b>: Dados brutos.
